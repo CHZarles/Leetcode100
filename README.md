@@ -1,14 +1,12 @@
 # Leetcode100 
-a repository for leetcode problems solved in kind of programming languages. 
+a repository for leetcode problems solved in Rust.
 
 
-📟`2023-12-30` 
-> I am studying rust, so I would commit solutions in rust recently.
+# Problems
+
+- [x] 1. [Two Sum](solutions/two_sum.rs)
 
 
-use `git checkout xxx` to switch to the corresponding branch.
 
-- Rust
-- C++
 
 
